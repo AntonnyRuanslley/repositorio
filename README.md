@@ -8,6 +8,6 @@ As respostas das questões foram feitas em C.
 
 2- Depois de colocar as informações, é só abrir o arquivo .exe e irá ser mostrado o resultado.
 
-## Tecnologias usadas
+## Tecnologia usada
 
 Dev-C++.
